@@ -1,0 +1,122 @@
+* {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", sans-serif;
+    }
+
+    body {
+      background:navajowhite;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .todo-container {
+      background: white;
+      width: 100%;
+      max-width: 400px;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .todo-container h2 {
+      text-align: center;
+      margin-bottom: 1.5rem;
+      color: #333;
+    }
+
+    .input-group {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .input-group input {
+      flex: 1;
+      padding: 0.6rem 1rem;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 1rem;
+    }
+
+    .input-group button {
+      background: #007bff;
+      color: white;
+      border: none;
+      padding: 0.6rem 1rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .input-group button:hover {
+      background: #0056b3;
+    }
+
+    ul.todo-list {
+      list-style: none;
+      max-height: 300px;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+
+    ul.todo-list li {
+      background: #f9f9f9;
+      padding: 0.7rem 1rem;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+
+    ul.todo-list li span {
+      flex-grow: 1;
+      margin-left: 0.5rem;
+      word-break: break-word;
+    }
+
+    ul.todo-list li.completed span {
+      text-decoration: line-through;
+      color: #999;
+    }
+
+    .todo-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .todo-actions input[type="checkbox"] {
+      transform: scale(1.2);
+      cursor: pointer;
+    }
+
+    .todo-actions button {
+      background: transparent;
+      border: none;
+      color: #e74c3c;
+      font-size: 1.2rem;
+      cursor: pointer;
+    }
+    .page-heading {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.page-heading .head {
+  color: #333;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+}
+
+
+    @media (max-width: 500px) {
+      .todo-container {
+        margin: 1rem;
+      }
+    }

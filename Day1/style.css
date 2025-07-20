@@ -1,0 +1,44 @@
+.head
+{
+    color: red;
+}
+.sum
+{
+    background-color: yellow;
+}
+.link
+{
+    hover: red;
+}
+*{
+    background-color: skyblue;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box {
+    display: flex;
+    border-radius: 10px;
+}
+.box1
+{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 2px solid black;
+    gap: 20px;
+}
+.box2
+{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    border: 2px solid black;
+}
+.box3
+{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 2px solid black;
+}
