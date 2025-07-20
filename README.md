@@ -53,15 +53,16 @@ This bootcamp is designed to provide industry-relevant skills through daily labs
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Computer Science student actively exploring fullstack and AI-powered development. This repository is my effort to document learning, showcase growth, and contribute to open collaboration.
+I'm Chandan Sharma, an aspiring Full-Stack Developer and Freelancer passionate about creating dynamic, user-focused web applications. I have experience in both frontend and backend technologies, with a growing focus on React and MongoDB.
 
+Currently pursuing a Bachelor’s in Computer Science and Information Technology at Madan Bhandari Memorial College, Kathmandu, I’m actively building my skillset through hands-on projects, freelance work, and collaborative coding experiences like this 9-Day Software Fellowship.
 ---
 
 ## 🤝 Let's Connect
 
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(if available)*  
-- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: chandansha198@gmail.com  
+- 🌐 Portfolio: https://chandansharmathakur.com.np/
+- 🔗 LinkedIn: https://www.linkedin.com/in/chandan-sharma-thakur-b095ba2a6/?fbclid=IwY2xjawIMEqVleHRuA2FlbQIxMAABHU4qgVngPSb_RpCzuUl0bu-Vg5jAkONmOXbT806uq_YirH8e7BNWVuWOBg_aem_LyQlsulMWFzZtBc5GiAmUw
 
 ---
 
